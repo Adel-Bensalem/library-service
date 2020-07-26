@@ -1,6 +1,6 @@
 ## Introduction
 
-Software to publish and distribute a book, this software includes viewing and editing books and chapters, as well as adding comments.
+Software to publish and distribute books, this software includes viewing and editing books and chapters, as well as adding comments.
 
 As it is a service exported by a web server, the graphical interface that will display the data provided is interchangeable.
 
