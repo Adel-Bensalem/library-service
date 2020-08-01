@@ -17,7 +17,7 @@ Create an Account:
 ```
 Access Account:
 
-    Identify as an artist, an authentification token will be provided upon success
+    Identify as an author, an authentification token will be provided upon success
 ```
 
 ```
